@@ -35,7 +35,6 @@ The project utilizes **Python, Pandas, Matplotlib, Plotly, Statsmodels, and ARIM
 2. Run the script to generate sales insights and forecasts.
 3. Explore interactive visualizations in your browser.
 
-## Future Enhancements
 
 ## How the code works?
 ---
