@@ -114,8 +114,3 @@ print(predictions)
 
 ---
 
-### **How the Code Helps You**
-✅ Cleans and preprocesses data  
-✅ Identifies trends and seasonality  
-✅ Forecasts future sales with ARIMA  
-✅ Provides interactive visualizations  
