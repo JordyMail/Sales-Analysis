@@ -36,7 +36,6 @@ The project utilizes **Python, Pandas, Matplotlib, Plotly, Statsmodels, and ARIM
 3. Explore interactive visualizations in your browser.
 
 ## Future Enhancements
-- Implement machine learning models for better forecasting
 - Add real-time data streaming for continuous updates
 
 ## How the code works?
